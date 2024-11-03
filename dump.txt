@@ -1,0 +1,125 @@
+Initial centroids: [(-199.032, -218.883), (-195.425, -206.378), (-2.46055, -7.39387)]
+Iteration 0
+Map tasks started...
+Mapper 0 response: Map function completed successfully
+Mapper 1 response: Map function completed successfully
+Mapper 2 response: Map function completed successfully
+Reduce tasks started...
+Reducer 0 response: Reducer 0 completed
+Reducer 1 response: Reducer 1 completed
+Reducer 2 response: Reducer 2 completed
+Reducer 3 response: Reducer 3 completed
+Reducer 4 response: Reducer 4 completed
+New centroids: [(-199.6525, -217.2665), (-183.64933333333332, -191.85166666666666), (94.518082, 100.8664535)]
+-199.6525,-217.2665
+-183.64933333333332,-191.85166666666666
+94.518082,100.8664535
+Iteration 1
+Map tasks started...
+Mapper 0 response: Map function completed successfully
+Mapper 1 response: Map function completed successfully
+Mapper 2 response: Map function completed successfully
+Reduce tasks started...
+Reducer 0 response: Reducer 0 completed
+Reducer 1 response: Reducer 1 completed
+Reducer 2 response: Reducer 2 completed
+Reducer 3 response: Reducer 3 completed
+Reducer 4 response: Reducer 4 completed
+New centroids: [(-196.15383333333332, -215.16066666666666), (-180.89575, -182.303), (94.518082, 100.8664535)]
+-196.15383333333332,-215.16066666666666
+-180.89575,-182.303
+94.518082,100.8664535
+Iteration 2
+Map tasks started...
+Mapper 0 response: Map function completed successfully
+Mapper 1 response: Map function completed successfully
+Mapper 2 response: Map function completed successfully
+Reduce tasks started...
+Reducer 0 response: Reducer 0 completed
+Reducer 1 response: Reducer 1 completed
+Reducer 2 response: Reducer 2 completed
+Reducer 3 response: Reducer 3 completed
+Reducer 4 response: Reducer 4 completed
+New centroids: [(-196.15383333333332, -215.16066666666666), (-180.89575, -182.303), (94.518082, 100.8664535)]
+-196.15383333333332,-215.16066666666666
+-180.89575,-182.303
+94.518082,100.8664535
+Convergence reached!! Iteration 2
+Initial centroids: [(-183.993, -224.813), (-178.205, -179.714), (176.063, 204.179)]
+Iteration 0
+Map tasks started...
+Mapper 0 response: Map function completed successfully
+Mapper 1 response: Map function completed successfully
+Mapper 2 response: Map function completed successfully
+Reduce tasks started...
+Reducer 0 response: Reducer 0 completed
+Reducer 1 response: Reducer 1 completed
+Reducer 2 response: Reducer 2 completed
+Reducer 3 response: Reducer 3 completed
+Reducer 4 response: Reducer 4 completed
+New centroids: [(-196.15383333333332, -215.16066666666666), (-66.73454666666667, -62.91057083333333), (163.9661, 170.25366)]
+-196.15383333333332,-215.16066666666666
+-66.73454666666667,-62.91057083333333
+163.9661,170.25366
+Iteration 1
+Map tasks started...
+Mapper 0 response: Map function completed successfully
+Mapper 1 response: Map function completed successfully
+Mapper 2 response: Map function completed successfully
+Reduce tasks started...
+Reducer 0 response: Reducer 0 completed
+Reducer 1 response: Reducer 1 completed
+Reducer 2 response: Reducer 2 completed
+Reducer 3 response: Reducer 3 completed
+Reducer 4 response: Reducer 4 completed
+New centroids: [(-190.0506, -202.0176), (-3.8639360000000003, -1.3299930000000002), (192.9001, 203.06289999999998)]
+-190.0506,-202.0176
+-3.8639360000000003,-1.3299930000000002
+192.9001,203.06289999999998
+Iteration 2
+Map tasks started...
+Mapper 0 response: Map function completed successfully
+Mapper 1 response: Map function completed successfully
+Mapper 2 response: Map function completed successfully
+Reduce tasks started...
+Reducer 0 response: Reducer 0 completed
+Reducer 1 response: Reducer 1 completed
+Reducer 2 response: Reducer 2 completed
+Reducer 3 response: Reducer 3 completed
+Reducer 4 response: Reducer 4 completed
+New centroids: [(-190.0506, -202.0176), (-3.8639360000000003, -1.3299930000000002), (192.9001, 203.06289999999998)]
+-190.0506,-202.0176
+-3.8639360000000003,-1.3299930000000002
+192.9001,203.06289999999998
+Convergence reached!! Iteration 2
+Initial centroids: [(183.366, 184.295), (184.705, 218.947), (211.525, 201.677)]
+Iteration 0
+Map tasks started...
+Mapper 0 response: Map function completed successfully
+Mapper 1 response: Map function completed successfully
+Mapper 2 response: Map function completed successfully
+Reduce tasks started...
+Reducer 0 response: Reducer 0 completed
+Reducer 1 response: Reducer 1 completed
+Reducer 2 response: Reducer 2 completed
+Reducer 3 response: Reducer 3 completed
+Reducer 4 response: Reducer 4 completed
+New centroids: [(-60.17432, -64.26995347826087), (184.987, 215.09025), (211.30566666666667, 205.00033333333332)]
+-60.17432,-64.26995347826087
+184.987,215.09025
+211.30566666666667,205.00033333333332
+Iteration 1
+Map tasks started...
+Mapper 0 response: Map function completed successfully
+Mapper 1 response: Map function completed successfully
+Mapper 2 response: Map function completed successfully
+Reduce tasks started...
+Reducer 0 response: Reducer 0 completed
+Reducer 1 response: Reducer 1 completed
+Reducer 2 response: Reducer 2 completed
+Reducer 3 response: Reducer 3 completed
+Reducer 4 response: Reducer 4 completed
+New centroids: [(-96.957268, -101.67379650000001), (183.98066666666668, 206.47983333333332), (206.27925, 197.9375)]
+-96.957268,-101.67379650000001
+183.98066666666668,206.47983333333332
+206.27925,197.9375
